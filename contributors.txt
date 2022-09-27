@@ -1,2 +1,0 @@
-NAME            LOCATION      TRACK
-Daniel B        Australia     Java Fundamentals
